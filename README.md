@@ -5,7 +5,7 @@
 `curl https://github.com/nikaidoumari/Auto_Proxy/auto_proxy.sh > ~/.auto_proxy.sh`  
 `echo "export ~/.auto_proxy.sh" >> ~/.bashrc`  
 #### use  
-To edit the .auto_proxy.sh
+To edit the .auto_proxy.sh  
 `vim ~/.auto_proxy.sh`  
   
 nwinterface="*****" #Your interface name  
