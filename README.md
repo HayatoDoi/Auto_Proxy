@@ -2,7 +2,9 @@
 ### プロキシを使用したいwifiに接続した時、自動的に環境変数を変えます。  
   
 #### install  
-`curl https://github.com/nikaidoumari/Auto_Proxy/auto_proxy.sh > ~/.auto_proxy.sh`  
+`git clone https://github.com/nikaidoumari/Auto_Proxy.git`  
+`cd Auto_Proxy`  
+`cp ./auto_proxy.sh ~/.auto_proxy.sh`  
 `echo "export ~/.auto_proxy.sh" >> ~/.bashrc`  
 #### use  
 To edit the .auto_proxy.sh  
