@@ -9,9 +9,10 @@
 #### use  
 To edit the .auto_proxy.sh  
 `vim ~/.auto_proxy.sh`  
-  
+
+```  
 nwinterface="*****" #Your interface name  
 sSSID="********" #SSID of wifi to use a proxy  
 PROXYSERVER="********.jp" #URL of the proxy server  
 PORT="8080" #port of the proxy server
-
+```
