@@ -5,7 +5,7 @@
 `git clone https://github.com/nikaidoumari/Auto_Proxy.git`  
 `cd Auto_Proxy`  
 `cp ./auto_proxy.sh ~/.auto_proxy.sh`  
-`echo "export ~/.auto_proxy.sh" >> ~/.bashrc`  
+`echo "source ~/.auto_proxy.sh" >> ~/.bashrc`  
 #### use  
 To edit the .auto_proxy.sh  
 `vim ~/.auto_proxy.sh`  
